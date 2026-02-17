@@ -1,4 +1,5 @@
 .env
+.claude/
 __pycache__/
 data/energy_data.db
 data/energy_data.db-journal
