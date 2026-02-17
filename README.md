@@ -31,8 +31,7 @@ ecohome_starter/
 ├── requirements.txt           # Python dependencies
 ├── 01_db_setup.ipynb         # Database setup and sample data
 ├── 02_rag_setup.ipynb        # RAG pipeline setup
-├── 03_agent_evaluation.ipynb # Agent testing and evaluation
-├── 04_agent_run.ipynb        # Running the agent with examples
+├── 03_run_and_evaluate.ipynb # Running the agent and evaluation
 └── README.md                  # This file
 ```
 
@@ -59,8 +58,7 @@ Execute the notebooks in order:
 
 1. **01_db_setup.ipynb** - Set up the database and populate with sample data
 2. **02_rag_setup.ipynb** - Configure the RAG pipeline for energy tips
-3. **03_agent_evaluation.ipynb** - Test and evaluate the agent
-4. **04_agent_run.ipynb** - Run the agent with example scenarios
+3. **03_run_and_evaluate.ipynb** - Run the agent and evaluate responses
 
 ## Agent Capabilities
 
